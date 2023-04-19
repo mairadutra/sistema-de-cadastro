@@ -2,4 +2,4 @@
 
 "status do projeto: em desenvolvimento"
 
-fazendo uma alteração
+objetivo: repositório para aprendizado de Git*
